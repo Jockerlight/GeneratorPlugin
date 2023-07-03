@@ -1,0 +1,4 @@
+name: gens
+version: '${project.version}'
+main: org.jocker.gens.Gens
+api-version: 1.19
